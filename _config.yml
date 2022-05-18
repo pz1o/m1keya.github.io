@@ -2,7 +2,7 @@
 title: pz1o
 url: https://m1keya.github.io/
 paginate: 1
-paginate_path: "/dark-poole/page:num/"
+paginate_path: "/page:num/"
 baseurl: "/"
 permalink: pretty
 
