@@ -44,12 +44,12 @@ version: 3.0.0
 nav:
   - title: Blog
     url: /archive
-
-  - title: About
-    url: /about
   
   - title: Run
     url: http://run.pz1o.top
   
   - title: CTF
-    url: https://github.com/m1keya/CTF_Links
+    url: https://github.com/m1keya/CTF_Link
+  
+  - title: About
+    url: /about
